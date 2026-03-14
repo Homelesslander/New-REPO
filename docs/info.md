@@ -8,12 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
-
+NOT gates are connected to each output from the switch so when all switches are on the seven segment wont light. When all the switches are off the seven segment lights are all on.
 ## How to test
 
-Explain how to use your project
+Flip a switch off and observe a part of the seven segment light.
 
 ## External hardware
 
